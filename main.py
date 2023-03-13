@@ -7,3 +7,4 @@ def delenie(x):
     return
 result = delenie(x)
 print(result)
+
